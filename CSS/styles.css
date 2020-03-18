@@ -1,0 +1,117 @@
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.25rem; 
+    color: #66bfbf;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    border-color: #EAF6F6;
+    margin: 50px auto 50px auto;
+}
+p{
+    color: #40514e;
+}
+a{
+    color: #11999e;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: #eaf6f6;
+    margin: 0px;
+    position: relative;
+    padding: 100px;
+    line-height: 2rem;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.buttom-cloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+    
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+    line-height: 2;
+}
+.web-dev-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.data-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.img-profile{
+    width: 25%;
+}
+.btn {
+    -webkit-text-size-adjust: 20px;
+    border-end-end-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 25px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+        
+.btn:hover {
+    background: #66BFBF;
+    border: solid #66BFBF 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 50px auto auto auto;
+    position: relative;
+    padding: 50px;
+    line-height: 10px;
+}
+.footer-link{
+    color: #11999E;
+    padding: 50px;
+}
+#copyright{
+    margin-top: 3em;
+    color: #EAF6F6;
+}
+    
